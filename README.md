@@ -1,4 +1,8 @@
-# Unofficial FindMyDevice(FMD) Server Python Client
+# (deprecated) Unofficial FindMyDevice(FMD) Server Python Client
+
+> [!WARNING]
+> This project was relevant vor V1 of the FDM API. This is now deprecated and obsolete in favor of the new V2 API. 
+
 
 This is an unofficial Python package that allows you to interact with the [FindMyDevice Server](https://gitlab.com/Nulide/findmydeviceserver) API. FindMyDevice Server is a server designed to communicate with the FMD Android app, helping you locate and control your devices.
 
